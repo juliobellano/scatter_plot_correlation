@@ -1,0 +1,13 @@
+input
+runs
+*.png
+*.csv
+bin
+lib/
+share
+saved_models/
+*.pt
+*.pth
+*.docx
+*.pdf
+ass1/
